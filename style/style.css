@@ -1,0 +1,61 @@
+html *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+/* .navbar{
+    background-color: rgba(255, 255, 255, 0.233);
+} */
+
+
+
+
+#divUno{
+    width: 100%;
+
+}
+
+#divUno>div{
+    width: 40%;
+}
+
+#tablaPrincipal{
+    width: 70vw;
+    
+}
+
+#primerPagina{
+    width: 70vw;
+
+}
+
+#contenedorFiltros{
+    width: 50%;
+}
+
+footer{
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    background-color: #92adad;
+}
+
+#navb{
+    background-color: #92adad;
+}
+
+#imgf{
+    width: 30vw;
+}
+
+.tablaP{
+    width: 20vw;
+}
+img{
+    width: 15vw;
+}
